@@ -6,18 +6,35 @@
       <file name="/Dummy.txt" timestamp="1538714074956">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="E:/OneDrive/Documents/GitHub/Testing/src/main.kt" timestamp="1538716066965">
-        <mark key="[" line="1" column="24" />
-        <mark key="]" line="1" column="4" />
-        <mark key="." line="1" column="4" />
+      <file name="E:/OneDrive/Documents/GitHub/Testing/src/main.kt" timestamp="1538836361977">
+        <mark key="y" line="66" column="29" />
+        <mark key="[" line="50" column="47" />
+        <mark key="]" line="50" column="47" />
+        <mark key="." line="50" column="47" />
+        <mark key="^" line="27" column="12" />
       </file>
-      <file name="E:/OneDrive/Documents/GitHub/Testing/out/production/Testing/MainKt.class" timestamp="1538716126472" />
       <file name="/fragment.java" timestamp="1538716019867">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps />
-    <registers />
+    <registers>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgIHByaW50bG4oIlN0cmluZ3MgRXF1YWwgOiAke3N0cjEuZXF1YWxzKHN0cjIpfSIpCg==</text>
+      </register>
+      <register name="&quot;" type="4">
+        <text>s(&quot;</text>
+      </register>
+      <register name="2" type="4">
+        <text encoding="base64">ICAgIGlmICh0cnVlIGlzIEJvb2xlYW4pewogICAgICAgIAogICAgICAgIHByaW50bG4KICAgIH0=</text>
+      </register>
+      <register name="3" type="4">
+        <text encoding="base64">CiAgICAKCiAgIA==</text>
+      </register>
+      <register name="-" type="4">
+        <text>s(&quot;</text>
+      </register>
+    </registers>
     <search>
       <last-dir>0</last-dir>
       <show-last>false</show-last>
@@ -31,6 +48,9 @@
     <shortcut-conflicts>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed V</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed C</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
